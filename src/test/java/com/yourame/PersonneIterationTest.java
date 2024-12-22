@@ -4,8 +4,6 @@ package com.yourame ;
 import org.assertj.core.api.Assertions;
 import org.junit.jupiter.api.Test;
 
-import com.Personne;
-
 import java.util.HashSet;
 import java.util.Iterator;
 import java.util.Set;
