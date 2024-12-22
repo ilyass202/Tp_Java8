@@ -1,0 +1,16 @@
+# Ignorer les répertoires et fichiers générés par Maven
+target/
+
+# Ignorer les fichiers de configuration spécifiques aux environnements de développement
+*.log
+*.tmp
+
+# Ignorer les fichiers de configuration des IDE courants
+*.iml
+*.ipr
+*.iws
+.idea/
+*.classpath
+*.project
+*.settings/
+.vscode/
